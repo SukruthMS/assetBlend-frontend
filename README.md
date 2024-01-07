@@ -1,2 +1,1 @@
-Asset Blend. 
-Work in progress.
+Frontend application for financial portfolio (assetBlend-backend service).

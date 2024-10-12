@@ -27,7 +27,7 @@ AssetBlend is a comprehensive Portfolio Tracker application built with React, pr
    npm install
    ```
 
-3. Set up environment variables: (Checkout [assetBlend-backend](https://github.com/gsakshay/assetBlend-backend) for the backend implementation)
+3. Set up environment variables: (Checkout [assetBlend-backend](https://github.com/SukruthMS/assetBlend-backend) for the backend implementation)
    Create a `.env` file in the root directory and add:
    ```
    REACT_APP_API_URL=your_backend_api_url
